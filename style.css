@@ -318,7 +318,7 @@ a {
   color: #555;
 }
 
-/* @keyframes smMenuLinkStartAnimation {
+@keyframes smMenuLinkStartAnimation {
   0% {
     transform: translateY(50px);
     opacity: 0;
@@ -338,7 +338,7 @@ a {
     transform: translateY(50px);
     opacity: 0;
   }
-} */
+} 
 
 .main-header__sm-scr-nav-btn-line:first-child {
   margin-bottom: 8px;
